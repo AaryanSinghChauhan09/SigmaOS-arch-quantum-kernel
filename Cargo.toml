@@ -1,0 +1,9 @@
+[package]
+name = "arch-quantum-kernel"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-quantum-kernel component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-quantum-kernel"
+
+[dependencies]
