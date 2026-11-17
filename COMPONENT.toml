@@ -3,7 +3,7 @@ name = "SigmaOS-arch-quantum-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-quantum-kernel component"
+description = "SigmaOS SigmaOS-arch-quantum-kernel component"
 upstream = []
 
 [contract]
